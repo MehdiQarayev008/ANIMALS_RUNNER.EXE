@@ -16,3 +16,21 @@ C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\Animals_ runner.exe\o
 C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\Animals_ runner.exe\obj\Debug\net6.0-windows\Animals_ runner.exe.pdb
 C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\Animals_ runner.exe\obj\Debug\net6.0-windows\Animals_ runner.exe.genruntimeconfig.cache
 C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\Animals_ runner.exe\obj\Debug\net6.0-windows\ref\Animals_ runner.exe.dll
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\bin\Debug\net6.0-windows\Animals_ runner.exe.exe
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\bin\Debug\net6.0-windows\Animals_ runner.exe.deps.json
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\bin\Debug\net6.0-windows\Animals_ runner.exe.runtimeconfig.json
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\bin\Debug\net6.0-windows\Animals_ runner.exe.dll
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\bin\Debug\net6.0-windows\Animals_ runner.exe.pdb
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\obj\Debug\net6.0-windows\Animals_ runner.exe.csproj.AssemblyReference.cache
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\obj\Debug\net6.0-windows\Animals__runner.exe.Form1.resources
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\obj\Debug\net6.0-windows\Animals__runner.exe.Properties.Resources.resources
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\obj\Debug\net6.0-windows\Animals_ runner.exe.csproj.GenerateResource.cache
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\obj\Debug\net6.0-windows\Animals_ runner.exe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\obj\Debug\net6.0-windows\Animals_ runner.exe.AssemblyInfoInputs.cache
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\obj\Debug\net6.0-windows\Animals_ runner.exe.AssemblyInfo.cs
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\obj\Debug\net6.0-windows\Animals_ runner.exe.csproj.CoreCompileInputs.cache
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\obj\Debug\net6.0-windows\Animals_ runner.exe.dll
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\obj\Debug\net6.0-windows\refint\Animals_ runner.exe.dll
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\obj\Debug\net6.0-windows\Animals_ runner.exe.pdb
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\obj\Debug\net6.0-windows\Animals_ runner.exe.genruntimeconfig.cache
+C:\Users\User\C# 2-ci modul 09.01.2023\Animals_ runner.exe\ANIMALS_RUNNER.EXE\Animals_ runner.exe\obj\Debug\net6.0-windows\ref\Animals_ runner.exe.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\C# 2-ci modul 09.01.2023\\Animals_ runner.exe\\Animals_ runner.exe\\Animals_ runner.exe.csproj",
+      "projectUniqueName": "C:\\Users\\User\\C# 2-ci modul 09.01.2023\\Animals_ runner.exe\\ANIMALS_RUNNER.EXE\\Animals_ runner.exe\\Animals_ runner.exe.csproj",
       "projectName": "Animals_ runner.exe",
-      "projectPath": "C:\\Users\\User\\C# 2-ci modul 09.01.2023\\Animals_ runner.exe\\Animals_ runner.exe\\Animals_ runner.exe.csproj",
+      "projectPath": "C:\\Users\\User\\C# 2-ci modul 09.01.2023\\Animals_ runner.exe\\ANIMALS_RUNNER.EXE\\Animals_ runner.exe\\Animals_ runner.exe.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\C# 2-ci modul 09.01.2023\\Animals_ runner.exe\\Animals_ runner.exe\\obj\\",
+      "outputPath": "C:\\Users\\User\\C# 2-ci modul 09.01.2023\\Animals_ runner.exe\\ANIMALS_RUNNER.EXE\\Animals_ runner.exe\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
